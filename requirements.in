@@ -1,2 +1,5 @@
+levenshtein
+pandas
+python-dateutil
 pytz
 requests

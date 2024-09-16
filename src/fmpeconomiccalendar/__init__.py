@@ -6,7 +6,7 @@ Examples:
 :license: Apache 2.0, see LICENSE for more details.
 """
 
-__title__ = "requests"
+__title__ = "fmpeconomiccalendar"
 __description__ = "Python HTTP for Humans."
 __version__ = "0.1.0"
 #__url__ = ""
@@ -14,3 +14,5 @@ __author__ = "David McKim"
 __author_email__ = "davidmckim@gmail.com"
 __license__ = "Apache-2.0"
 __copyright__ = "Copyright David McKim"
+
+from .fmpclient import Calendar
